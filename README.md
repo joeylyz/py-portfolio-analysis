@@ -16,5 +16,31 @@ a sanity check to see if there is any outliners on price information we retrived
 to see how porfolio monthly performance
 
 ### step 4: calculate gross and net exposure of porfolio
+leverage of portfolio, and whether the exposure is positive or negative
+
+### step 5: calculate common ratio
+annualized return, annualized volatility, maxium dradown, sharpe ratio, sortino ratio
+
+### step 6: factor analysis
+factor analysis using fama french 3 factor.
+Barra risk would be more ideal and practical, unfortunately need data access
+chart the coeffecient (i.e. how the model explained) and the residuals (how reliable the result is)
+
+### step 7 :portfolio risk
+calculate standard deviation, value at risk, and CVaR
+plot for return distribution
+plot rolling shape ratio and rolling maximum drawdown
+
+### step 8: sector exposure
+calculate sector exposure of portfolio
+
+### step 9: top PnL contributor
+
+
+
+
+
+
+
 
 
